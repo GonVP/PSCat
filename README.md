@@ -11,3 +11,8 @@ This catalog is licensed under the [Creative Commons Attribution 4.0 Internation
 Please cite the following paper if you use this catalog:
 
 Vargas et al., PSCat, manuscript in preparation (planned for submission to a peer-reviewed journal).
+
+## Contact
+Gonzalo Vargas
+Predoctoral Researcher at Instituto de Astrofísica de Andalucía (IAA-CSIC)
+gvargas@iaa.es
