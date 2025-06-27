@@ -1,5 +1,5 @@
 ## Description
-This repository is currently under active development as part of an ongoing PhD project on dust scattering in protoplanetary disks.
+This repository is currently under active development as part of an ongoing PhD research about dust scattering in protoplanetary disks.
 Content, scripts, and documentation are being progressively updated and refined.
 
 CATALOG.ipynb contains preliminary results. Source data and updates will be uploaded in the coming days.
