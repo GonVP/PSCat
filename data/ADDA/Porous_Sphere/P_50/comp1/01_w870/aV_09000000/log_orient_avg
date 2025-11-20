@@ -1,0 +1,32 @@
+                   GAMMA(rad)   cos(BETA)
+EPS                    0.001     0.001
+Refinement stages:
+Minimum                2         2
+Maximum                4         4
+lower boundary         0         -1
+upper boundary         6.28319   1
+equivalent min&max     true      false
+periodic               true      false
+
+
+Outer-Loop	Inner Loop
+init		2 integrand-values were used.
+Inner_qromb converged only to d=0.006177 for cosine value #8
+1		16 integrand-values were used.
+Inner_qromb converged only to d=0.00678671 for cosine value #4
+Inner_qromb converged only to d=0.00678692 for cosine value #12
+2		32 integrand-values were used.
+Inner_qromb converged only to d=0.00161512 for cosine value #2
+Inner_qromb converged only to d=0.00156451 for cosine value #6
+Inner_qromb converged only to d=0.00156454 for cosine value #10
+Inner_qromb converged only to d=0.0016152 for cosine value #14
+3		64 integrand-values were used.
+Inner_qromb converged only to d=0.00947633 for cosine value #5
+Inner_qromb converged only to d=0.00519103 for cosine value #7
+Inner_qromb converged only to d=0.00519108 for cosine value #9
+Inner_qromb converged only to d=0.0094761 for cosine value #11
+4		112 integrand-values were used.
+11 inner integrations did not converge.
+The outer integration did not converge
+The outer integration reached d=0.00534679
+In total 226 evaluations were used

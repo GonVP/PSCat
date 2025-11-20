@@ -1,0 +1,18 @@
+                   GAMMA(rad)   cos(BETA)
+EPS                    0.001     0.001
+Refinement stages:
+Minimum                2         2
+Maximum                4         4
+lower boundary         0         -1
+upper boundary         6.28319   1
+equivalent min&max     true      false
+periodic               true      false
+
+
+Outer-Loop	Inner Loop
+init		2 integrand-values were used.
+1		8 integrand-values were used.
+2		16 integrand-values were used.
+All inner integrations converged
+The outer integration converged
+In total 26 evaluations were used
