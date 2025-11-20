@@ -6,6 +6,8 @@ The 'data' directory contains the catalog of simulations described in Vargas et 
 
 The 'models' directory contains the input models used for the MSTM and ADDA simulations. For ADDA, the input models correspond to consolidated porous particles with porosities of 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, and 0.9. For MSTM, the input models correspond to highly porous fractal aggregates with porosities of 0.94, 0.98, and 0.99.
 
+The 'data_analysis.ipynb' notebook contains the Python script for loading, processing, and visualizing the data catalog, including both MSTM and ADDA particle models and the MIE compact spheres for reference. To execute the notebook, download the 'data' directory and place 'data_analysis.ipynb' inside it.
+
 ## License
 
 This catalog is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
