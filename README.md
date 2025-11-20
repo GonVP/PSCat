@@ -9,7 +9,9 @@ The 'models' directory contains the input models used for the MSTM and ADDA simu
 The 'data_analysis.ipynb' notebook contains the Python script for loading, processing, and visualizing the data catalog, including both MSTM and ADDA particle models and the MIE compact spheres for reference. To execute the notebook, download the 'data' directory and place 'data_analysis.ipynb' inside it.
 
 ## Data Release
-Version 1.0 (November 14, 2025): Wavelength coverage: 0.87, 1.0, 3.0, and 7.0 mm. Particle size range: 0.01 µm to 1 mm.
+Version 1.0 (November 14, 2025): 
+  Wavelength coverage: 0.87, 1.0, 3.0, and 7.0 mm. 
+  Particle size range: 0.01 µm to 1 mm.
 
 ## License
 
