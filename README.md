@@ -9,7 +9,9 @@ The data directory contains the catalog of simulations used in Vargas et al. (20
 This catalog is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 
 Please cite the following paper if you use this catalog:
-Vargas et al. (2025), submitted manuscript currently under peer review.
+Vargas et al. (2025): Modeling (Sub)-Millimeter Scattering Properties of Fractal and Consolidated Porous Particles: Applications to Protoplanetary Disks.
+
+Submitted manuscript currently under peer review.
 
 ## Contact
 gvargas@iaa.es
