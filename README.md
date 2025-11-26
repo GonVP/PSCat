@@ -23,7 +23,7 @@ Vargas et al. (2025): Modeling (Sub)-Millimeter Scattering Properties of Fractal
 Submitted manuscript currently under peer review.
 
 ## Contact
-gvargas@iaa.es
+gvargas [at] iia [dot] es
 
 Gonzalo Vargas
 
