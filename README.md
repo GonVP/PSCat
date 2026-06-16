@@ -18,9 +18,10 @@ Version 1.0 (November 14, 2025):
 This catalog is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 
 Please cite the following paper if you use this catalog:
-Vargas et al. (2025): Modeling (Sub)-Millimeter Scattering Properties of Fractal and Consolidated Porous Particles: Applications to Protoplanetary Disks.
 
-Submitted manuscript currently under peer review.
+Vargas et al. (2026), Modeling (Sub)millimeter Scattering Properties of Fractal and Consolidated Porous Particles: Applications to Protoplanetary Disks, The Astrophysical Journal, 1004, 225.
+
+https://doi.org/10.3847/1538-4357/ae7342
 
 ## Contact
 gvargas [at] iia [dot] es
